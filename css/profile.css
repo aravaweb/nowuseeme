@@ -27,6 +27,11 @@ div.profile {
 	width: 60px;
 	margin-top: 20px;
 }
+.profilepic1 {
+	width: 60px;
+	margin-top: 20px;
+	border-radius: 50px;
+}
 .maxonprofilepic {
 	width: 50px;
 	margin-top: 20px;
@@ -35,6 +40,12 @@ div.profile {
 	width: 50px;
 	height: 50px;
 	margin-top: 15px;
+}
+.aaromalprofilepic {
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+	border-radius: 50px;
 }
 .maheshprofilepic {
 	width: 50px;
@@ -66,6 +77,14 @@ div.profile {
 #border-profile-aarathi{
 	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
 	height:  1080px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-aaromal {
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  689px;
 	width: 900px;
 	margin-left: 30px;
 	border-radius: 20px;

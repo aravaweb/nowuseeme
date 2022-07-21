@@ -265,3 +265,15 @@ body {
 .loadingtext {
   text-align: center;
 }
+.iframe-scratch {
+    width: 554px;
+    height: 336px;
+    margin-left: 30px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+.tdofpost {
+  opacity: 50%;
+  margin-left: 650px;
+  color: #fff;
+}
